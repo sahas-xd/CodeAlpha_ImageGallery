@@ -32,6 +32,6 @@ the CodeAlpha Frontend Development Internship.
 ## Image Credits
 Sample images provided through Unsplash.
 
-## Internship
-CodeAlpha — Frontend Development
-Task 1: Image Gallery
+## Project
+
+Created as a Image gallery project for CodeAlpha Task 1.
